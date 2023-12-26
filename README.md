@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Aravind</h1>
 <h3 align="center"> </h3>
-<h6 align="justify"> As a Bioinformatician studying at Boston University, I am passionate about combining my knowledge of biology and computer science to solve complex problems in the life sciences field. I have experience in analyzing large-scale RNA-seq datasets and developing computational pipelines to understand biological phenomena.</h5>
+<h6 align="justify"> As a Bioinformatician working at Boston University, I am passionate about combining my biology and computer science knowledge to solve complex life sciences problems. I have experience analyzing large-scale RNA-seq datasets and developing computational pipelines to understand biological phenomena. My expertise lies in analyzing genomics and transcriptomic data with machine learning techniques with skills focused on variant calling and single-cell sequencing techniques.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravind-sundar&label=Profile%20views&color=0e75b6&style=flat" alt="aravind-sundar" /> </p>
 

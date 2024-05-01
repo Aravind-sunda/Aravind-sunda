@@ -37,5 +37,12 @@ Here are some ideas to get you started:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="mysql" width="40" height="40"/>
 </p>
 
+<h3 align="left">Repository Organization:</h3>
+<h5 align="justify"> The repositories in my library are organized according to the following indexes:</h5>
+<ol>
+  <li>SNKMK -> Repositories with this index will contain snakemake pipelines </li>
+  <li>RS -> Repositories with this index will contain apps made with Rshiny</li>
+  <li>Third item</li>
+</ol>
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravind-sundar&show_icons=true&locale=en&layout=compact" alt="aravind-sundar" /></p> -->

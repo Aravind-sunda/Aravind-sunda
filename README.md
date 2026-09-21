@@ -1,8 +1,9 @@
 # Aravind Sundaravadivelu
 
-Bioinformatician working on gene regulation, translation, and single-cell genomics · Houston, TX
+Bioinformatician @ [Brannan Lab](https://brannan.hmailabs.org/), Houston Methodist | M.S. Bioinformatics, Boston University
 
-I'm a bioinformatician in the [Brannan Lab](https://brannan.hmailabs.org/) at Houston Methodist, building pipelines and analyses to understand how cells regulate gene expression, from transcript abundance to translation. I hold an M.S. in Bioinformatics from Boston University and have worked across genomics, single-cell, and spatial data. Building on my earlier variant calling work, I'm most interested in using ribosome-linked RNA editing (STAMP), from bulk to single cells, to measure translational efficiency and map RNA-binding-protein contacts. Alongside this, I'm drawn to machine learning as a way to model translational regulation.
+I develop computational frameworks to understand the regulatory gap between the transcriptome and the proteome. Building on a foundation in variant calling, my work centers on profiling translation via APOBEC-mediated RNA editing (STAMP) and mapping precise RBP-RNA interactions (eCLIP). To resolve these regulatory events within sparse single cell data, my goal is to use machine learning models to extract true biological signal from technical noise, enabling precise quantification of translational control.
+
 <!--
 Research-layers diagram, commented out for now.
 To restore: delete the comment markers around it and remove the space in each "-- >"
